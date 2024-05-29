@@ -1,0 +1,218 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1/modelsim_ase/win32aloem
+vand2
+Z0 !s110 1716989497
+!i10b 1
+!s100 zK3h?e;?=_FiH[VglU51W0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYbjYXUMlD`KM2A:<4jjEQ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/unitbv/An III/S2/CLP/Proiect/Varianta finala
+w1716833022
+8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/and2.v
+FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/and2.v
+!i122 123
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1716989496.000000
+!s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/and2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/and2.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbtn
+R0
+!i10b 1
+!s100 _=:M8N>C^o;Hkzoj^BkZf1
+R1
+I1cL9ZN9[38iCN<gMNG>^60
+R2
+R3
+w1716982345
+8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/btn.v
+FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/btn.v
+!i122 127
+L0 1 15
+R4
+r1
+!s85 0
+31
+Z7 !s108 1716989497.000000
+!s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/btn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/btn.v|
+!i113 1
+R5
+R6
+vclock
+R0
+!i10b 1
+!s100 C>NzGR?:3IPD;l`nl?UEK3
+R1
+IoJL9D@>4JQzXG4eHY_<Ym1
+R2
+R3
+w1716985596
+8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/clock.v
+FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/clock.v
+!i122 128
+L0 1 20
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/clock.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/clock.v|
+!i113 1
+R5
+R6
+vctu
+R0
+!i10b 1
+!s100 EXjHllVGGkjMLUFY55GcS1
+R1
+I74bzA3h`B`9olaOdO>4hH0
+R2
+R3
+w1716985403
+8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v
+FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v
+!i122 124
+L0 1 51
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v|
+!i113 1
+R5
+R6
+vdff
+R0
+!i10b 1
+!s100 `mP;caX?[N;8n;]241Lk@3
+R1
+I13S1O^1CUF]jj<2ZC74A31
+R2
+R3
+w1716987367
+8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v
+FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v
+!i122 125
+L0 1 17
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v|
+!i113 1
+R5
+R6
+vdrv_btn
+R0
+!i10b 1
+!s100 6689S3Ad[>fBPTK5l^QF[0
+R1
+IicdlB1]4O@ikGRUPlaNz83
+R2
+R3
+w1716987047
+8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v
+FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v
+!i122 126
+L0 1 54
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v|
+!i113 1
+R5
+R6
+vscn_ctu
+R0
+!i10b 1
+!s100 lKZgQ5fODP]3JCR3Li=@@1
+R1
+I6IE6nG8@T_0Xia05cTMBS0
+R2
+R3
+w1716985051
+8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/scn_ctu.v
+FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/scn_ctu.v
+!i122 130
+L0 1 13
+R4
+r1
+!s85 0
+31
+R7
+!s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/scn_ctu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/scn_ctu.v|
+!i113 1
+R5
+R6
+vtb
+R0
+!i10b 1
+!s100 4k;ohMP]Gi4<=PP<aHFbm2
+R1
+Ik9585GKhVo@L610j^lXbX0
+R2
+R3
+w1716985892
+Z8 8D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v
+Z9 FD:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v
+!i122 129
+L0 1 95
+R4
+r1
+!s85 0
+31
+R7
+Z10 !s107 D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v|
+!i113 1
+R5
+R6
+vtestbench
+!s110 1716982387
+!i10b 1
+!s100 S7jD8Mko>5PYj9PXc7^@G0
+R1
+IjCbjRnA>NR>VjWg6HnF1;3
+R2
+R3
+w1716982378
+R8
+R9
+!i122 16
+L0 1 100
+R4
+r1
+!s85 0
+31
+!s108 1716982387.000000
+R10
+R11
+!i113 1
+R5
+R6

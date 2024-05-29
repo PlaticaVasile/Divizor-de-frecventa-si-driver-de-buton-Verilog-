@@ -1,0 +1,57 @@
+{D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/scn_ctu.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/scn_ctu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module scn_ctu
+
+Top level modules:
+	scn_ctu
+
+} {} {}} {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/and2.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/and2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and2
+
+Top level modules:
+	and2
+
+} {} {}} {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/clock.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/clock.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clock
+
+Top level modules:
+	clock
+
+} {} {}} {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/btn.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/btn.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module btn
+
+Top level modules:
+	btn
+
+} {} {}} {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module drv_btn
+
+Top level modules:
+	drv_btn
+
+} {} {}} {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v} {1 {vlog -work work -stats=none {D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ctu
+
+Top level modules:
+	ctu
+
+} {} {}}

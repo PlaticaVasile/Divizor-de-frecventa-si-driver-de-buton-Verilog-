@@ -1,0 +1,613 @@
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v failed with 1 errors.
+# Compile of drv_btn.v failed with 1 errors.
+# Compile of btn.v failed with 2 errors.
+# Compile of clock.v failed with 1 errors.
+# Compile of scn_ctu.v was successful.
+# Compile of tb.v failed with 4 errors.
+# 8 compiles, 5 failed with 9 errors.
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v failed with 1 errors.
+# Compile of clock.v was successful.
+# Compile of scn_ctu.v was successful.
+# Compile of tb.v failed with 1 errors.
+# 8 compiles, 2 failed with 2 errors.
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of scn_ctu.v was successful.
+# Compile of tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of scn_ctu.v was successful.
+# Compile of tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 14:34:51 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'qn_o'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_1/DFF_inst_1 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 13
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'qn_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v(7).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_1/DFF_inst_1 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 13
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q_o'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_1/DFF_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 22
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'q_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_1/DFF_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 22
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'qn_o'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_2/DFF_inst_1 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 13
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'qn_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v(7).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_2/DFF_inst_1 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 13
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q_o'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_2/DFF_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 22
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'q_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_2/DFF_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 22
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'qn_o'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_3/DFF_inst_1 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 13
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'qn_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v(7).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_3/DFF_inst_1 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 13
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q_o'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_3/DFF_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 22
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (32) for port 'q_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/dff.v(6).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/DRV_BTN_inst_3/DFF_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/drv_btn.v Line: 22
+# Error loading design
+# End time: 14:34:51 on May 29,2024, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 17
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of scn_ctu.v was successful.
+# Compile of tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 14:37:32 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+add wave -position insertpoint  \
+sim:/tb/btn1 \
+sim:/tb/btn2 \
+sim:/tb/btn3 \
+sim:/tb/chk \
+sim:/tb/clk \
+sim:/tb/CLK1 \
+sim:/tb/CLK2 \
+sim:/tb/CLK3 \
+sim:/tb/count_up \
+sim:/tb/dt \
+sim:/tb/enbl \
+sim:/tb/Limita \
+sim:/tb/Limita1 \
+sim:/tb/NrBiti \
+sim:/tb/ovf_1sec \
+sim:/tb/ovf_2sec \
+sim:/tb/rst \
+sim:/tb/SP \
+sim:/tb/srv1 \
+sim:/tb/srv2 \
+sim:/tb/srv3
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 14:53:03 on May 29,2024, Elapsed time: 0:15:31
+# Errors: 0, Warnings: 2
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of scn_ctu.v was successful.
+# Compile of tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of scn_ctu.v was successful.
+# Compile of tb.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 14:56:00 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+add wave -position insertpoint  \
+sim:/tb/btn1 \
+sim:/tb/btn2 \
+sim:/tb/btn3 \
+sim:/tb/chk \
+sim:/tb/clk \
+sim:/tb/CLK1 \
+sim:/tb/CLK2 \
+sim:/tb/CLK3 \
+sim:/tb/count_up \
+sim:/tb/dt \
+sim:/tb/enbl \
+sim:/tb/Limita \
+sim:/tb/Limita1 \
+sim:/tb/NrBiti \
+sim:/tb/ovf_1sec \
+sim:/tb/ovf_2sec \
+sim:/tb/rst \
+sim:/tb/SP \
+sim:/tb/srv1 \
+sim:/tb/srv2 \
+sim:/tb/srv3
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Break key hit
+quit -sim
+# End time: 15:06:53 on May 29,2024, Elapsed time: 0:10:53
+# Errors: 0, Warnings: 3
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 15:11:00 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# ** Warning: (vsim-3015) [PCDPC] - Port size (27) does not match connection size (4) for port 'data_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/CTU_inst_1 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v Line: 81
+add wave -position insertpoint  \
+sim:/tb/btn1 \
+sim:/tb/btn2 \
+sim:/tb/btn3 \
+sim:/tb/chk \
+sim:/tb/chk1 \
+sim:/tb/clk \
+sim:/tb/CLK1 \
+sim:/tb/CLK2 \
+sim:/tb/CLK3 \
+sim:/tb/count_up \
+sim:/tb/dt \
+sim:/tb/dt1 \
+sim:/tb/enbl \
+sim:/tb/Limita \
+sim:/tb/Limita1 \
+sim:/tb/NrBiti \
+sim:/tb/NrBiti1 \
+sim:/tb/ovf_1sec \
+sim:/tb/ovf_1sec1 \
+sim:/tb/ovf_2sec \
+sim:/tb/ovf_2sec1 \
+sim:/tb/rst \
+sim:/tb/SP \
+sim:/tb/srv1 \
+sim:/tb/srv2 \
+sim:/tb/srv3
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 15:13:27 on May 29,2024, Elapsed time: 0:02:27
+# Errors: 0, Warnings: 4
+# Compile of and2.v was successful.
+# Compile of ctu.v failed with 2 errors.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of and2.v was successful.
+# Compile of ctu.v failed with 2 errors.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of and2.v was successful.
+# Compile of ctu.v failed with 2 errors.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 1 failed with 2 errors.
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 15:23:34 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (27) for port 'data_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/CTU_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v Line: 77
+quit -sim
+# End time: 15:24:08 on May 29,2024, Elapsed time: 0:00:34
+# Errors: 0, Warnings: 8
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 15:24:18 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (27) for port 'data_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/CTU_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v Line: 77
+add wave -position insertpoint  \
+sim:/tb/btn1 \
+sim:/tb/btn2 \
+sim:/tb/btn3 \
+sim:/tb/chk \
+sim:/tb/clk \
+sim:/tb/CLK1 \
+sim:/tb/CLK2 \
+sim:/tb/CLK3 \
+sim:/tb/count_up \
+sim:/tb/dt \
+sim:/tb/enbl \
+sim:/tb/Limita \
+sim:/tb/Limita1 \
+sim:/tb/NrBiti \
+sim:/tb/NrBiti1 \
+sim:/tb/ovf_1sec \
+sim:/tb/ovf_2sec \
+sim:/tb/rst \
+sim:/tb/SP \
+sim:/tb/srv1 \
+sim:/tb/srv2 \
+sim:/tb/srv3
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 15:26:41 on May 29,2024, Elapsed time: 0:02:23
+# Errors: 0, Warnings: 3
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 15:26:52 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (27) for port 'data_o'. The port definition is at: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/hdl/ctu.v(11).
+#    Time: 0 ps  Iteration: 0  Instance: /tb/CTU_inst_2 File: D:/unitbv/An III/S2/CLP/Proiect/Varianta finala/tb/tb.v Line: 77
+add wave -position insertpoint  \
+sim:/tb/btn1 \
+sim:/tb/btn2 \
+sim:/tb/btn3 \
+sim:/tb/chk \
+sim:/tb/clk \
+sim:/tb/CLK1 \
+sim:/tb/CLK2 \
+sim:/tb/CLK3 \
+sim:/tb/count_up \
+sim:/tb/dt \
+sim:/tb/enbl \
+sim:/tb/Limita \
+sim:/tb/Limita1 \
+sim:/tb/NrBiti \
+sim:/tb/NrBiti1 \
+sim:/tb/ovf_1sec \
+sim:/tb/ovf_2sec \
+sim:/tb/rst \
+sim:/tb/SP \
+sim:/tb/srv1 \
+sim:/tb/srv2 \
+sim:/tb/srv3
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 15:29:02 on May 29,2024, Elapsed time: 0:02:10
+# Errors: 0, Warnings: 3
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 15:29:14 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+add wave -position insertpoint  \
+sim:/tb/btn1 \
+sim:/tb/btn2 \
+sim:/tb/btn3 \
+sim:/tb/chk \
+sim:/tb/clk \
+sim:/tb/CLK1 \
+sim:/tb/CLK2 \
+sim:/tb/CLK3 \
+sim:/tb/count_up \
+sim:/tb/dt \
+sim:/tb/enbl \
+sim:/tb/Limita \
+sim:/tb/Limita1 \
+sim:/tb/NrBiti \
+sim:/tb/NrBiti1 \
+sim:/tb/ovf_1sec \
+sim:/tb/ovf_2sec \
+sim:/tb/rst \
+sim:/tb/SP \
+sim:/tb/srv1 \
+sim:/tb/srv2 \
+sim:/tb/srv3
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+quit -sim
+# End time: 15:31:40 on May 29,2024, Elapsed time: 0:02:26
+# Errors: 0, Warnings: 2
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 15:31:49 on May 29,2024
+# Loading work.tb
+# Loading work.clock
+# Loading work.btn
+# Loading work.drv_btn
+# Loading work.dff
+# Loading work.and2
+# Loading work.ctu
+# Loading work.scn_ctu
+add wave -position insertpoint  \
+sim:/tb/btn1 \
+sim:/tb/btn2 \
+sim:/tb/btn3 \
+sim:/tb/chk \
+sim:/tb/clk \
+sim:/tb/CLK1 \
+sim:/tb/CLK2 \
+sim:/tb/CLK3 \
+sim:/tb/count_up \
+sim:/tb/dt \
+sim:/tb/enbl \
+sim:/tb/Limita \
+sim:/tb/Limita1 \
+sim:/tb/NrBiti \
+sim:/tb/NrBiti1 \
+sim:/tb/ovf_1sec \
+sim:/tb/ovf_2sec \
+sim:/tb/rst \
+sim:/tb/SP \
+sim:/tb/srv1 \
+sim:/tb/srv2 \
+sim:/tb/srv3
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 16:31:33 on May 29,2024, Elapsed time: 0:59:44
+# Errors: 0, Warnings: 2
+# Compile of and2.v was successful.
+# Compile of ctu.v was successful.
+# Compile of dff.v was successful.
+# Compile of drv_btn.v was successful.
+# Compile of btn.v was successful.
+# Compile of clock.v was successful.
+# Compile of tb.v was successful.
+# Compile of scn_ctu.v was successful.
+# 8 compiles, 0 failed with no errors.
